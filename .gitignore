@@ -1,1 +1,8 @@
+# idk
 venv/
+temp/
+help/
+
+# cache stuff
+__pycache__/
+*.pyc
